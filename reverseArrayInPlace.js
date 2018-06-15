@@ -17,4 +17,4 @@ function reveseArrayInPlaceBasic(arr) {
   return arr
 }
 
-console.log(reveseArrayInPlaceBasic([1,2,3,4,5]))
+console.log(reveseArrayInPlaceBasic([1,2,3,4,5,6]))
